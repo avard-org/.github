@@ -1,7 +1,5 @@
 # Avard Documentation
 
-ideas are easy. execution is everything.
-
 Welcome to the Avard documentation hub! This directory contains guides, API references, and resources for all our projects.
 
 ## 📚 What's Here
