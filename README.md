@@ -20,8 +20,9 @@ Each project has its own documentation structure:
 
 | Project | Description | Status | Repository |
 |---------|-------------|--------|------------|
+| [Harmony](https://github.com/avard-org/harmony) | AI-powered shared living platform with multi-agent system | 🚧 In Development | [GitHub](https://github.com/avard-org/harmony) |
 | [Ribbon](https://github.com/avard-org/ribbon) | AR navigation with Predictive Spatial Intelligence | 🚧 In Development | [GitHub](https://github.com/avard-org/ribbon) |
-| [Toki](https://github.com/avard-org/toki) | Alarm clock app with puzzle-solving wake-up challenges | 🚧 In Development | [GitHub](https://github.com/avard-org/toki) |
+| [Toki](https://github.com/avard-org/toki) | University item sharing platform | 🚧 In Development | [GitHub](https://github.com/avard-org/toki) |
 | [Teito](https://github.com/avard-org/teito) | College expense splitting with financial stress prevention | 🚧 In Development | [GitHub](https://github.com/avard-org/teito) |
 | [ChoreWise](https://github.com/avard-org/chorewise) | Smart task management for shared living | 📋 Planning | [GitHub](https://github.com/avard-org/chorewise) |
 | [SupplySync](https://github.com/avard-org/supplysync) | Inventory management for households | 📋 Planning | [GitHub](https://github.com/avard-org/supplysync) |
