@@ -23,17 +23,16 @@ We aim for inclusive, respectful collaboration — see our [`CODE_OF_CONDUCT.md`
 ### 👩‍💻 Useful links
 | Resource | Where |
 | -------- | ----- |
-| Project repositories | [avard-org](https://github.com/avard-org) organization |
+| Project repositories | [avard-org](https://github.com/orgs/avard-org/repositories)|
 | Roadmap & RFCs | [GitHub Projects board](https://github.com/orgs/avard-org/projects) |
 | Design assets | Available to collaborators in repo wiki |
-| Build status | ![CI](https://github.com/avard-org/teito/actions/workflows/ci.yml/badge.svg) |
 
 ---
 
 ### 🍿 Fun facts
 * Our unofficial mascot is a caffeinated llama.
 * "Lunch & Learn" happens every other Friday — recent topics: TinyML, composting PCB waste, and the best dumpling spots within 1 km of the office.
-* First line of code was written on a train between Rockville and DC (Howard University Campus).
+* First line of code was written on a Red-Line train between Rockville, Maryland and DC (Howard University Campus).
 
 ---
 
