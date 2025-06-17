@@ -42,7 +42,7 @@ We believe good docs are as important as good code:
 
 Found something unclear? Want to add examples? We'd love your help!
 
-1. Check the [CONTRIBUTING.md](../CONTRIBUTING.md) for general guidelines
+1. Check the [CONTRIBUTING.md](https://github.com/avard-org/.github/blob/main/profile/CONTRIBUTING.md) for general guidelines
 2. For docs specifically:
    - Use clear, simple language
    - Include code examples

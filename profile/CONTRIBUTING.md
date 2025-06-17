@@ -65,7 +65,7 @@ Be respectful, inclusive, and constructive. See our [CODE_OF_CONDUCT.md](CODE_OF
 ## ❓ Questions?
 
 - Open a discussion thread in the repo
-- Reach out to [Founder](https://www.github.com/elcruzo) in issues
+- Reach out to our [Founder](https://www.github.com/elcruzo) in issues
 
 ---
 
