@@ -13,10 +13,10 @@ Welcome to **Avard** — a small studio with a big appetite for turning clever i
 
 ### 🌈 How to get involved
 1. **Browse our repos** — pick any issue labeled `good first issue` or `help-wanted`.
-2. **Create a fork → PR** — follow the commit-style guide in [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+2. **Create a fork → PR** — follow the commit-style guide in [`CONTRIBUTING.md`](https://github.com/avard-org/.github/blob/main/profile/CONTRIBUTING.md).
 3. **Join the discussion** — questions, ideas or feedback? Open a discussion thread.
 
-We aim for inclusive, respectful collaboration — see our [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md).
+We aim for inclusive, respectful collaboration — see our [`CODE_OF_CONDUCT.md`](https://github.com/avard-org/.github/blob/main/profile/CODE_OF_CONDUCT.md).
 
 ---
 
